@@ -10,8 +10,8 @@
 # lambda: lifetime distribution parameters (different for each distribution) 
 # --------------------------------------
 
-source("dpd estimation.R")
-source("dpd simulation.R")
+source("src/dpd estimation.R")
+source("src/dpd simulation.R")
 
 # Example of use
 model.distribution <- "weibull"
